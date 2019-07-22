@@ -1,5 +1,16 @@
 body {
-    background-color: chocolate;
+    background: url(../images/background.jpg)
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 1 rem;
+}
+
+p {
+    color: white;
+    text-align: center;
 }
 
 h2 {
